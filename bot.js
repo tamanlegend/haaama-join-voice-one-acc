@@ -11,5 +11,20 @@ client.on("ready", () =>{
     }
   });
 });
+
+
+////////////////////////////////////VOICE CHANNEL
+
+const channelid = "IDVOICE"    //id channele vc
+client.on("ready", () => {
+    const channel = client.channels.cache.get(channelid);
+    if (!channel) return console.error("The channel does not exist!");
+    channel.join().then(connection => {
+        console.log("Successfully connected.");
+    }).catch(e => {
+        console.error(e);
+    });
+}); 
+
 ///////////////////////
 client.login("TOKENBOT");
