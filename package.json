@@ -5,13 +5,10 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "11.4.2",
-    "express": "^4.17.1",
-    "quick.db": "^7.1.1",
-  
-    "discord.js-v12": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
   },
   "engines": {
-    "node": "12.x"
+    "node": "12"
   }
 }
