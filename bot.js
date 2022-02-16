@@ -12,4 +12,4 @@ client.on("ready", () =>{
   });
 });
 ///////////////////////
-client.login("NzIzODUyMTM4NjEwMDMyNzIw.Xu3p1g.RYpFF2AWc7ap6Sfy3tV4zKzq5io");
+client.login("TOKENBOT");
