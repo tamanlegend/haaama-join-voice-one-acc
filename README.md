@@ -7,11 +7,7 @@ Best Account Streaming Project V13
 Dont Forget Give 🌟 Project And Thank You All
 
 # How To Use
-Just Open ``config.json`` file will tells you all the information how to use
-
-
-
-
+Just Open ``config.json`` file and types tells you all the information how to use project
 
 
 
